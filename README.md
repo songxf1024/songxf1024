@@ -28,15 +28,7 @@
 |-|-|
 
 
-<table>
-<tr>
-<td valign="top"  width="50%">
 
-
-#### 👉 [Recent Blog]([https://chegva.com](https://blog.csdn.net/sxf1061700625))
-- [【知识】DGL中graph默认的稀疏矩阵格式和coo格式不对的坑](https://xfxuezhang.blog.csdn.net/article/details/140124538)
-- [【踩坑】探究PyTorch中创建稀疏矩阵的内存占用过大的问题](https://xfxuezhang.blog.csdn.net/article/details/140140689)
-
-</td>
-</tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://count.getloli.com/@songxf1024_github" alt="songxf1024_github" />
+</div>
